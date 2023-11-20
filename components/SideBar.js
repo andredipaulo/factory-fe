@@ -9,14 +9,17 @@ const SideBar = forwardRef(({ showNav, setShowNav }, ref) => {
   return (
     <div ref={ref} className="fixed w-56 h-full bg-white shadow-sm">
       {/*Logo*/}
-      <div className="flex justify-center mt-0 mb-0">
+      <div className="flex justify-center mt-0 mb-1">
         <picture>
           <img
-            className="w-32 h-auto"
+            className="w-16 h-16 rounded-full"
             src="/logo.jpeg"
             alt="company logo"
           />
         </picture>
+        <div className="flex items-center py-2">          
+            <p className="text-gray-700 text-3xl font-bold">Factory</p>
+        </div>
       </div>
 
       <div className="flex flex-col">
