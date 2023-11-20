@@ -1,10 +1,6 @@
 {
-  "/_offline": "pages/_offline.html",
-  "/clients": "pages/clients.html",
-  "/_document": "pages/_document.js",
-  "/loans": "pages/loans.html",
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
-  "/": "pages/index.html",
-  "/404": "pages/404.html"
+  "/_document": "pages/_document.js",
+  "/clients": "pages/clients.js"
 }
