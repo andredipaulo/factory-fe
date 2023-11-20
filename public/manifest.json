@@ -1,6 +1,13 @@
 {
-  "name": "Factory",
-  "short_name": "Factory",
+  "name": "Factory App",
+  "short_name": "Factory app",
+  "description": "Factory controle de empréstimos",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "orientation": "portrait",
+  "lang": "pt-BR",
+  "start_url": "/",  
   "icons": [
     {
       "src": "/icons/android-chrome-192x192.png",
@@ -18,11 +25,5 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ],
-  "theme_color": "#FFFFFF",
-  "background_color": "#FFFFFF",
-  "display": "standalone",
-  "orientation": "portrait",
-  "lang": "pt-BR",
-  "start_url": "/"  
+  ]  
 }
