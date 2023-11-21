@@ -1,10 +1,10 @@
 {
   "/_app": "pages/_app.js",
-  "/_offline": "pages/_offline.html",
   "/_document": "pages/_document.js",
+  "/_offline": "pages/_offline.html",
   "/clients": "pages/clients.html",
   "/loans": "pages/loans.html",
-  "/": "pages/index.html",
   "/_error": "pages/_error.js",
+  "/": "pages/index.html",
   "/404": "pages/404.html"
 }
